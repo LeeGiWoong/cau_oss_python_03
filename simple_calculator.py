@@ -29,7 +29,6 @@ def plus(num1, num2):
 def minus(num1 , num2):
     return num1 - num2
 
-#
 # [fill this area] 위의 코드를 참고하여 -, /, %에 대한 내용 구현
 #
 while True:
